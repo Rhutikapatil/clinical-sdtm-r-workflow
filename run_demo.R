@@ -1,0 +1,10 @@
+# Run from the root of the repository (set as your RStudio working directory).
+source("R/00_helpers.R")
+source("R/01_generate_synthetic_data.R")
+source("R/02_dm.R")
+source("R/03_ex.R")
+source("R/04_mh.R")
+source("R/05_ds.R")
+source("R/06_vs.R")
+source("R/07_validation.R")
+message("Synthetic SDTM-style demonstration finished.")

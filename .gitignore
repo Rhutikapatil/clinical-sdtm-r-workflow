@@ -1,0 +1,27 @@
+# Generated synthetic inputs and derived outputs
+/data/synthetic/*
+!/data/synthetic/.gitkeep
+/outputs/*
+!/outputs/.gitkeep
+
+# Never accidentally include private source/reference materials
+*.sas7bdat
+*.sas7bcat
+*.xpt
+*.rds
+*.csv
+*.xlsx
+*.xls
+private/
+confidential/
+reference/
+specifications/
+protocol/
+
+# RStudio and operating system files
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+.DS_Store
+Thumbs.db
