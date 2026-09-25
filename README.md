@@ -92,9 +92,7 @@ R · Clinical data programming · SDTM concepts · DM / EX / MH / DS / VS · Syn
 
 ## Author
 
-**Rhutika Patil** — M.S. Bioinformatics, North Carolina State University  
-GitHub: [Rhutikapatil](https://github.com/Rhutikapatil)  
-LinkedIn: [rhutika-patil](https://www.linkedin.com/in/rhutika-patil)
+**Rhutika Patil** — M.S. Bioinformatics, North Carolina State University  GitHub: [Rhutikapatil](https://github.com/Rhutikapatil)  LinkedIn: [rhutika-patil](https://www.linkedin.com/in/rhutika-patil)
 
 ## Confidentiality
 
